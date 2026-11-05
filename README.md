@@ -1,7 +1,7 @@
 <h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name:  A.ravi teja royal         </h3>
 <h3>Register Number Id: 212225230018          </h3>
-<h3> Date:5/11/2026 </h3>
+<h3> Date:4/11/2026 </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
